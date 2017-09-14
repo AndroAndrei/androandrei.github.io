@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Pues. Bienvenidos a mi Blog Personal!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Tratare de publicar todo lo que considere util e interesante.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[andreigbsoftware@gmail.com](mailto:andreigbsoftware@gmail.com)
