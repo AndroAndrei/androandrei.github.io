@@ -54,7 +54,7 @@ Siendo este el caso. Lo primero que debemos hacer es instalar las cabeceras de
 desarrollo de ruby:
 
 ```bash
-apt-get install ruby-de
+apt-get install ruby-dev
 ```
 
 Algunas veces incluso al instalar estas dependencias se nos siguen presentando errores
