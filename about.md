@@ -9,7 +9,7 @@ Pues. Bienvenidos a mi Blog Personal!
 
 ### More Information
 
-Tratare de publicar todo lo que considere util e interesante.
+Busy in this moment!.
 
 ### Contact me
 
